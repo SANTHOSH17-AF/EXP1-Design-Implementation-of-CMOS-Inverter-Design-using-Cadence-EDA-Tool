@@ -37,26 +37,31 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 ## Circuit Diagram:
 #### 1. CMOS Inverter:
 
-![image](https://github.com/user-attachments/assets/e3e06487-52b2-4b56-9dcd-03c5c9394a4c)
+![Screenshot 2025-04-25 110212](https://github.com/user-attachments/assets/e5479117-0c6e-4815-8c62-5e0a3f6db987)
+
 
 
 #### 2. Schematic of CMOS Inverter:
 
-   ![image](https://github.com/user-attachments/assets/cbba1a98-bb12-417f-b0ab-edd8b4c78e7e)
+  ![Screenshot 2025-04-25 110239](https://github.com/user-attachments/assets/f7c84759-c014-4511-8e3d-eabf482cf529)
+
 
 #### 3. Transient Response Setup:
 
-![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+
+![Screenshot 2025-04-25 110347](https://github.com/user-attachments/assets/63c3a4c8-56ef-4b77-9190-02e3f7039f02)
 
 
-![image](https://github.com/user-attachments/assets/2611bd19-13be-4413-a662-9de3b555981d)
+
+![Screenshot 2025-04-25 110413](https://github.com/user-attachments/assets/c831864a-021b-43ee-b17d-ab468f53fe26)
 
 
 
 ## Output
 #### 1.Transient Analysis Output
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+  ![Screenshot 2025-04-25 110554](https://github.com/user-attachments/assets/bfb0bd4a-dee0-4990-be5a-d60a60a28fcb)
+
 
 
 ## Results:
